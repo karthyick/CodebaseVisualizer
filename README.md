@@ -2,6 +2,8 @@
 
 Turn your codebase into stunning visual representations with AI-powered image generation.
 
+![image](https://github.com/user-attachments/assets/c1688fc7-a7fd-4921-b19d-d6f77244b593)
+
 ![Codebase Visualization Example](./generated_images/codebase_ecosystem.png)
 
 ## Overview
